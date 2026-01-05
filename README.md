@@ -54,9 +54,9 @@ Planejado inicialmente para ~4 semanas, 5 dias por semana, ~4h/dia.
 
 ## Progresso
 
-| Data       | Atividade                                       | Arquivo/Notas                                                      | Status       |
-| ---------- | ----------------------------------------------- | ------------------------------------------------------------------ | ------------ |
-| 2026-01-05 | Mini-simulado diagnóstico inicial (24 questões) | [`notes/2026-01-05-mini-simulado.md`](2026-01-05-mini-simulado.md) | ✅ Concluído |
+| Data       | Atividade                                       | Arquivo/Notas                                                            | Status       |
+| ---------- | ----------------------------------------------- | ------------------------------------------------------------------------ | ------------ |
+| 2026-01-05 | Mini-simulado diagnóstico inicial (24 questões) | [`notes/2026-01-05-mini-simulado.md`](notes/2026-01-05-mini-simulado.md) | ✅ Concluído |
 
 **Convenção de status:**
 ✅ Concluído
