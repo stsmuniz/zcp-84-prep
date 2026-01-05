@@ -30,7 +30,7 @@ Sugestão de pastas:
 Objetivo: configurar ambiente, repositório e obter linha de base de conhecimento.
 
 - [ ] **S0.1 – Setup do repositório e ambiente**
-  - [ ] Criar repositório `zcp-8.4-prep` no GitHub
+  - [x] Criar repositório `zcp-8.4-prep` no GitHub
   - [x] Criar estrutura inicial de pastas:
     - `notes/`, `snippets/`, `katas/`, `mock/`
   - [ ] Configurar PHP 8.x (idealmente 8.4) com:
