@@ -17,8 +17,6 @@ A ideia é:
 
 ## Índice de simulados
 
-> Preencha a tabela conforme for criando/rodando novos simulados.
-
 | #   | Data       | Tipo          | Foco / Observações principais                                  | Acerto (%) | Arquivo                                                   | Notas / Análise                                                     |
 | --- | ---------- | ------------- | -------------------------------------------------------------- | ---------: | --------------------------------------------------------- | ------------------------------------------------------------------- |
 | 01  | 2026-01-05 | Mini-simulado | Diagnóstico geral (Basics, Arrays, OOP, Error, Web, PDO, etc.) |        75% | [mini-simulado-01.md](mini-simulados/mini-simulado-01.md) | [2026-01-05-mini-simulado.md](../notes/2026-01-05-mini-simulado.md) |

@@ -50,23 +50,25 @@ Planejado inicialmente para ~4 semanas, 5 dias por semana, ~4h/dia.
 - Semana 2 – OOP (sem framework), Traits, SPL, Error Handling/Exceptions
 - Semana 3 – Web Features (superglobals, sessions, cookies, uploads), Security, I/O, JSON/XML, Date/Time
 - Semana 4 – Databases/PDO/SQL + Revisão geral + Simulados internos
-  Detalhamento do plano por dia ficará em notes/roadmap.md (a criar).
+  Detalhamento do plano por dia ficará em [notes/roadmap.md](notes/roadmap.md).
 
 ## Progresso
 
-| Data       | Atividade                                       | Arquivo/Notas                                                            | Status       |
-| ---------- | ----------------------------------------------- | ------------------------------------------------------------------------ | ------------ |
-| 2026-01-05 | Mini-simulado diagnóstico inicial (24 questões) | [`notes/2026-01-05-mini-simulado.md`](notes/2026-01-05-mini-simulado.md) | ✅ Concluído |
+| Data       | Atividade                                                                                       | Arquivo/Notas                                                            | Status       |
+| ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------ |
+| 2026-01-05 | Mini-simulado diagnóstico inicial ([mini-simulado-01](mock/mini-simulados/mini-simulado-01.md)) | [`notes/2026-01-05-mini-simulado.md`](notes/2026-01-05-mini-simulado.md) | ✅ Concluído |
 
-**Convenção de status:**
-✅ Concluído
-🟡 Em andamento
-⏳ Planejado
+> **Convenção de status:**
+> ✅ Concluído
+> 🟡 Em andamento
+> ⏳ Planejado
 
 À medida que eu for estudando, cada sessão relevante ganha:
 
 - um arquivo `.md` em `notes/` com resumo/insights,
 - uma linha nesta tabela com link para o arquivo.
+
+Um acompanhamento detalhado dos simulados pode ser visto em [mock/README.md](mock/README.md)
 
 ## Como usar este repositório
 
